@@ -1,5 +1,6 @@
 require timeOut;
 
+
 <script type="text/javascript">
   // for loop
   $.timeOut(2000,()=>{
@@ -20,5 +21,6 @@ require timeOut;
   });
 
   $.doTimeout( 'ID', false );
+
 
 </script>
